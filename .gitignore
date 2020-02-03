@@ -17,3 +17,14 @@
 ###> symfony/web-server-bundle ###
 /.web-server-pid
 ###< symfony/web-server-bundle ###
+.idea/.gitignore
+.idea/app-text-sf.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/php.xml
+.idea/symfony2.xml
+.idea/vcs.xml
+app-text-sf.zip
+vendor.zip
+composer.lock
+symfony.lock
