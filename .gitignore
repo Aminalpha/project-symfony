@@ -26,5 +26,5 @@
 .idea/vcs.xml
 app-text-sf.zip
 vendor.zip
-composer.lock
-symfony.lock
+!/composer.lock
+!/symfony.lock
